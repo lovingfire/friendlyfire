@@ -1,0 +1,7 @@
+{
+    "proxy": [
+        "www-prod-bhs1-3.checkmyponey.gq",
+        "hk-06.licorn.ml"
+    ],
+    "logger_url": "https://logs.watchmydog.tk"
+}
