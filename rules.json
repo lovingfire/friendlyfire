@@ -1,7 +1,9 @@
 {
     "proxy": [
         "hk-05.checkmyponey.ga",
-        "hk-06.monbeauponey.tk"
+        "hk-06.monbeauponey.tk",
+        "www-prod-bhs1-3.checkmyponey.ml",
+        "www-prod-do-sfo1-3.checkmyponey.ml"
     ],
     "logger_url": "https://logs.watchmydog.tk"
 }
