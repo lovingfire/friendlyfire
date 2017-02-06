@@ -1,9 +1,9 @@
 {
     "proxy": [
-        "hk-10.licorn.ml",
-        "hk-09.checkmyponey.ga",
-        "jp-03.checkmyponey.cf",
-        "www-prod-bhs1-3.checkmyponey.ml"
+        "jp-06.checkmyponey.ga",
+        "hk-12.checkmyponey.ml",
+        "www-prod-sbg1-3.licorn.ml",
+        "www-prod-bhs1-6.checkmyponey.cf"
     ],
     "logger_url": "https://logs.watchmydog.tk"
 }
