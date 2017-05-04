@@ -1,9 +1,8 @@
 {
     "proxy": [
-        "www-prod-ovh-bhs1-1.checkmyponey.ml",
-        "ch-01.licorn.ml",
-        "www-prod-ovh-gra1-4.gotothemoon.tk",
-        "hk-12.checkmyponey.ml"
+        "www-prod-ovh-bhs1-4.checkmyponey.ml",
+        "es-01.gotothemoon.ml",
+        "www-prod-ovh-gra1-5.gotothemoon.tk"
     ],
     "logger_url": "https://logs.watchmydog.tk"
 }
