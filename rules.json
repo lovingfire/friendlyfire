@@ -1,7 +1,7 @@
 {
     "proxy": [
-        "www-prod-do-sgp1-7.2fadc561.ml",
-        "www-prod-do-blr1-7.2fadc561.ga",
+        "www-prod-do-sgp1-11.fe80dbaaf96c.gq",
+        "www-prod-do-sgp1-10.bd7c791469b6.tk",
         "www-prod-do-sfo2-1.2fadc561.ml"
     ],
     "logger_url": "https://logs.watchmydog.tk"
