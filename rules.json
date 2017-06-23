@@ -1,9 +1,8 @@
 {
     "proxy": [
         "www-prod-do-sfo1-2.a5048593af5c.ga",
-        "www-prod-ovh-bhs1-8.f7ba9cb4c6cb.cf",
-        "www-prod-do-sgp1-11.fe80dbaaf96c.gq",
-        "www-prod-do-blr1-13.e1400d4c1af7.ml"
+        "www-prod-do-nyc1-9.5efb5004eef4.tk",
+        "www-prod-do-fra1-3.07031de31659.gq"
     ],
     "logger_url": "https://logs.watchmydog.tk"
 }
