@@ -2,5 +2,8 @@
     "proxy": [
         "www-prod-ovh-bhs1-18.5efb5004eef4.tk"
     ],
-    "logger_url": "https://logs.watchmydog.tk"
+    "logger_url": "https://logs.watchmydog.tk",
+    "mirror_domain": [
+        "tunnello.tk"
+    ]
 }
