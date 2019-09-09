@@ -1,6 +1,5 @@
 {
     "proxy": [
-        "www-prod-ovh-gra1-1.khfdzhljfzlknefaz.tk",
         "www-prod-ovh-gra1-2.dsqklazu213.cf"
     ],
     "logger_url": "https://logs.watchmydog.ml",
